@@ -1,2 +1,1 @@
 # sampleproject
-# hello world
